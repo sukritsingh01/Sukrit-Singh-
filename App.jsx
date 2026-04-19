@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react'
-import Cursor from './components/Cursor.jsx'
-import Loader from './components/Loader.jsx'
-import Hero from './components/Hero.jsx'
-import Gallery from './components/Gallery.jsx'
-import Contact from './components/Contact.jsx'
-import Footer from './components/Footer.jsx'
+import Cursor from './Cursor.jsx'
+import Loader from './Loader.jsx'
+import Hero from './Hero.jsx'
+import Gallery from './Gallery.jsx'
+import Contact from './Contact.jsx'
+import Footer from './Footer.jsx'
 
 export default function App() {
   const [loaded, setLoaded] = useState(false)
