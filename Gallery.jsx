@@ -1,12 +1,12 @@
 import { useState } from 'react'
-import p1 from '../assets/sukrit_1_.jpeg'
-import p2 from '../assets/sukrit_2_.jpeg'
-import p3 from '../assets/sukrit_3_.jpeg'
-import p4 from '../assets/sukrit_4_.jpeg'
-import p5 from '../assets/sukrit_5_.jpeg'
-import p6 from '../assets/sukrit_6_.jpeg'
-import p7 from '../assets/sukrit_7_.jpeg'
-import p8 from '../assets/sukrit_8_.jpeg'
+import p1 from './sukrit_1_.jpeg'
+import p2 from './sukrit_2_.jpeg'
+import p3 from './sukrit_3_.jpeg'
+import p4 from './sukrit_4_.jpeg'
+import p5 from './sukrit_5_.jpeg'
+import p6 from './sukrit_6_.jpeg'
+import p7 from './sukrit_7_.jpeg'
+import p8 from './sukrit_8_.jpeg'
 
 const photos = [p4, p3, p6, p8, p5, p7, p1, p2]
 
