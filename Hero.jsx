@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import heroPhoto from '../assets/sukrit_9_.jpeg'
+import heroPhoto from './sukrit_9_.jpeg'
 
 export default function Hero() {
   const ref = useRef(null)
